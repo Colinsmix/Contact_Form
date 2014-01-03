@@ -7,9 +7,6 @@ So that I can remove spam or other undesirable inquiries) do
 # Acceptance Tests
 # I can remove an item from the listing of contact inquiries
 
-  scenario 'Admin successfully deletes an inquiry' do
-    visit root_path
-    click_link 'View Inquiries'
-    
+  scenario 'Admin successfully deletes an inquiry' 
 
 end
